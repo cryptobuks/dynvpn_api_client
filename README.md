@@ -1,6 +1,7 @@
-# DynvpnApiClient
+# DynVPN API Client to interact with DynVPN API
 
-TODO: Write a gem description
+A small ruby gem that encapsulate the interaction with the API client for simplicity and code reuse.
+This just encapsulate their REST API and their Responses into a Ruby library
 
 ## Installation
 

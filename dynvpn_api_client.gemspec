@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = DynVpnApi::VERSION
   spec.authors       = ["Mathieu Jobin"]
   spec.email         = ["mathieu@justbudget.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{DynVPN API Client to interact with DynVPN API}
+  spec.description   = %q{This just encapsulate their REST API and their Responses into a Ruby library}
   spec.homepage      = ""
   spec.license       = "MIT"
 
