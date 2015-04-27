@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'dynvpn_api_client/version'
+require 'dynvpn_api/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "dynvpn_api_client"
-  spec.version       = DynvpnApiClient::VERSION
+  spec.version       = DynVpnApi::VERSION
   spec.authors       = ["Mathieu Jobin"]
   spec.email         = ["mathieu@justbudget.com"]
   spec.summary       = %q{TODO: Write a short summary. Required.}
